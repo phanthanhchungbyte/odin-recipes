@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+/*Took this from a CSS pattern site*/
+html {
+    background: linear-gradient(45deg, #d0cfeb80 20%, transparent 21%, transparent 79%, #d0cfeb80 80%) , linear-gradient(315deg, #d0cfeb80 20%, transparent 21%), linear-gradient(45deg, #d0cfeb 20%, transparent 21%), linear-gradient(315deg, #d0cfeb 20%, transparent 21%, transparent 79%, #d0cfeb80 80%);
+    background-size: 3em 3em;
+    background-color: #b3bde6;
+    opacity: 1;   
+}
+.Description{
+    border: black solid 1px;
+    background-color: beige;
+    padding: 0 10px;
+}
+
+.Ingredients{
+    border: black solid 1px;
+    background-color: beige;
+    padding: 0 10px;
+}
+
+.Steps{
+    border: black solid 1px;
+    background-color: beige;
+    padding: 0 10px;
+}
